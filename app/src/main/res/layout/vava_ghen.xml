@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="#FFF"
+
+              android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:text="Vô va Ghen."
+              android:layout_marginTop="20dp"
+              android:textColor="#ed2222"
+              android:textSize="30sp"
+              android:gravity="center_horizontal"/>
+    <TextView android:layout_width="match_parent"
+              android:layout_marginTop="10dp"
+              android:textSize="20sp"
+              android:textColor="#050505"
+
+              android:layout_marginLeft="5dp"
+              android:layout_height="match_parent"
+              android:text="Giữa trưa nắng , một Vova đèo một cô bé trên một chiếc xe đạp mini bé tí.
+
+Vẻ mặt cậu bé có vẻ rất bực.
+
+Đang đi Vova quay lại nói với cô bé :
+- Này, tại sao chiều hôm qua em lại đi chơi đồ hàng với thằng lớp 2B hả?"/>
+
+</LinearLayout>

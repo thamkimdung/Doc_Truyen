@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="#FFF"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:text="Đĩa đậu phộng"
+              android:layout_marginTop="20dp"
+              android:textColor="#ed2222"
+              android:textSize="30sp"
+              android:gravity="center_horizontal"/>
+    <TextView android:layout_width="match_parent"
+              android:layout_marginTop="10dp"
+              android:textSize="20sp"
+              android:textColor="#050505"
+              android:layout_marginLeft="5dp"
+              android:layout_height="match_parent"
+              android:text="Boris rủ bạn Vova đến thăm bà ngoại. Bà nhờ Boris sửa vòi nước trong bếp. Vova ngồi ngoài phòng khách chờ, tranh thủ nhấm nháp hết đĩa đậu phộng để trên bàn. Khi cùng bạn ra về, Vova cảm ơn bà và phân bua:
+- Cháu cảm ơn bà về đĩa đậu phộng. Cháu đã lỡ ăn hết không chừa lại một hạt nào cho bà.
+- Không sao, lúc trước nó còn là đĩa chocolate cơ đấy! Vì không có răng, nên bà đã mút hết lớp vỏ chocolate bao quanh hạt đậu phộng rồi.
+-Vova ủa ?!!!"/>
+
+</LinearLayout>

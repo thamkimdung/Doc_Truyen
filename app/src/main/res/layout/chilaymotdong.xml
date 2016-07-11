@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="#FFF"
+              android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:text="Chỉ lấy một đồng."
+              android:layout_marginTop="20dp"
+              android:textColor="#ed2222"
+    android:textSize="30sp"
+    android:gravity="center_horizontal"/>
+    <TextView android:layout_width="match_parent"
+              android:layout_marginTop="10dp"
+              android:textSize="20sp"
+              android:layout_marginLeft="5dp"
+              android:textColor="#050505"
+              android:layout_height="match_parent"
+    android:text="1 hôm, cô hàng xóm gọi vôva sang và hỏi:
+- vôva nếu cô cho cháu chọn giưa 10 đồng và 1 đồng, cháu lấy cái nào!
+vôva cười:
+-cháu lấy 1 đồng ạ!
+cô hàng xóm ngạc nhiên và đưa cho vôva 1 đồng!
+cả tháng sau ai ai cungthử vôva giống như cô hàng xóm và kháo nhau rằng :
+thằng vôva ngu lắm, cho nó chọn 10 đồng và 1 đồng nó chỉ lấy 1 đồng!
+tin đến tai mẹ vôva, bà liền nọc vôva ra đánh 1 trận rồi than:
+-trời ơi, sao tôi khổ thế này, lại có 1 thằng con chê tiền chứ, 10 đồng thì nó không
+lấy lại đi lấy 1 đồng bao giờ không…
+vôva liền bịt miệng mẹ và nói thầm,:
+-khẽ thôi mẹ ơi, con mà lấy 10 đồng thì con chỉ được 10 đồng thôi, còn bây giờ
+con có hơn 30 đồng rồi nhé!"/>
+
+</LinearLayout>

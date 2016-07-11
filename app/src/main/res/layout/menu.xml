@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+   <LinearLayout android:layout_width="match_parent"
+                 android:orientation="horizontal"
+                 android:padding="10dp"
+                 android:background="#FF9100"
+                 android:layout_height="70dp">
+       <ImageView android:layout_width="50dp"
+
+                  android:id="@+id/iv_menu"
+                  android:layout_height="50dp"
+                  android:src="@drawable/men"/>
+       <TextView android:layout_width="wrap_content"
+                 android:text="Truyện cười Vô va"
+                 android:gravity="center_vertical"
+                 android:textSize="25sp"
+                 android:layout_marginLeft="15dp"
+                 android:layout_height="50dp"/>
+   </LinearLayout>
+    <LinearLayout android:layout_width="match_parent"
+                  android:orientation="vertical"
+                  android:layout_marginTop="10dp"
+                  android:background="#FFF"
+                  android:layout_height="match_parent">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:text="Mở đầu"
+                  android:layout_marginLeft="15dp"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#d22020"/>
+        <ScrollView android:layout_width="match_parent"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_height="match_parent">
+
+            <TextView android:layout_width="match_parent"
+                      android:text="Truyện cười Vova có nguồn gốc từ nước Nga, cậu bé ấy với cái tên là Vovochka (mình gọi là thằng Vova, hay là vô va). Gồm những serie truyện cười kể về một cậu bé vô cùng thông minh, lém lĩnh, nghịch ngợm…những lời nói, những suy nghĩ cũng như những hành động của cậu bé làm cho người đọc phải bật cười. Truyện cười vova ngoài tính hấp dẫn, còn có tính giáo dục và châm biếm sâu sắc. Dường như bất kỳ ai cũng bị cuốn vào những câu chuyện cười của vova. Đố những ai không bật cười với thể loại truyện này. Cốt truyện của loạt 'Vovochka' mang lại cho người xem vào thành phố, nơi mà một cậu bé bình thường, người có học, rất tinh ý và thích làm cho niềm vui của tất cả. Vovochka cười trên không chỉ là giáo viên và bạn học cùng lớp, mà còn trên chính trường, người thường xuyên gọi cha mẹ của mình ở trường. Khi ông đến nhà từ trường, sau đó cảm giác của bạn hài hước, nó sẽ tự động chuyển đến các thành viên của gia đình ông.
+
+Các đối tượng của các giám sát và dí dỏm là một người bạn của gia đình nhỏ, đồng nghiệp của mẹ và cha của mình, bạn gái yêu quý của mình, bạn cùng lớp Lyuba, cũng như người nghiện ma túy trên đường phố... cha Vovochka là một nhân vật điển hình của những trò đùa về 'cảnh sát', ông đã đứng trên vệ trong cái nóng và lạnh, thu phí cho các 'Nga mới'. Sau khi làm việc, cha sẽ luôn luôn là các quán rượu, nơi uống với bạn bè thường xuyên của họ. Khi trở về nhà, anh chờ đợi cho một trách mắng truyền thống từ vợ mình. Tất cả các ký tự của dòng dí dỏm và vui vẻ. Mời các bạn cùng đón đọc."
+                      android:layout_height="match_parent"
+            android:textSize="20sp"/>
+        </ScrollView>
+    </LinearLayout>
+
+
+</LinearLayout>

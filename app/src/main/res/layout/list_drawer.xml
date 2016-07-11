@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="#FFF"
+              android:layout_height="match_parent">
+    <LinearLayout android:layout_width="match_parent"
+                  android:orientation="vertical"
+                  android:background="#FF9100"
+                  android:layout_height="130dp">
+        <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/vova"
+        />
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                  android:text="Vôva Bá đạo"
+                  android:gravity="center_horizontal"
+                  android:textSize="15sp"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent"
+                  android:background="#0ae8f4"
+                  android:layout_height="10dp">
+
+    </LinearLayout>
+    <ListView android:layout_width="match_parent"
+              android:id="@+id/listview"
+              android:listSelector="@drawable/ssss"
+
+              android:layout_height="match_parent"></ListView>
+
+</LinearLayout>

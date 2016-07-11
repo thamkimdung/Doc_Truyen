@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="#FFF"
+              android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:text="Mua xe tăng cho Vôva"
+              android:layout_marginTop="20dp"
+              android:textColor="#ed2222"
+              android:textSize="30sp"
+              android:gravity="center_horizontal"/>
+    <ScrollView android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_height="match_parent">
+
+        <TextView android:layout_width="match_parent"
+                  android:textColor="#050505"
+                  android:text="Nhà Vova chật lắm, thời ngày xưa nhà được phân phối, không mất tiền, cho nên chỉ 17m2 là quý roài! Kệ, túp lều tranh, trái tim vàng!
+Nhưng dở cái là Vova bắt đầu đi học, đâm ra bố mẹ rất khó xử!
+Hôm ấy, vào dịp nghỉ lễ, nghỉ đơn nghỉ kép thế nào Vova được nghỉ học tới 4 ngày liền, chỉ vì hôm trước tiếc tiền, bố ko mua cho Vova cái xe tăng, thế là nó ám ở nhà suốt 3 hôm ròng, tình hình của bố mẹ thì ngày càng nước sôi lửa bỏng…..
+Cái khó ló cái khôn, bố nghĩ ra một diệu kế, bố bèn bảo Vova ra đứng ở ban công nhìn xung quanh có gì hay thì nói vào cho bố mẹ, khoảng nửa tiếng, nếu tốt bố cho 2 cái xe tăng…..
+Vova ok liền
+
+Thế là công vụ bắt đầu :\n
+Vova : Có hai xe tải đi ở dưới đường, một trắng một vàng…\n
+
+Bố : Hự…. ự….ừ còn gì ko?\n
+
+Vova : Có hai đám mây bay trên trời, màu trắng\n
+
+Mẹ : A…..a…..còn gì nữa con?…..nữa….\n
+
+Vova : Hết rồi, con vào nhé?\n
+
+Bố, Mẹ : Từ từ đã …… nhìn sang nhà bác Ivan xem nào?\n
+Vova : À, hai bác ấy đang ” xxx ”\n
+Bố mẹ nhảy dựng lên, hớt hải : Sao mày biết ?\n
+Vova: À, Con bé Natasa con học cũng đang đứng ban công nhìn sang đây mà!"
+                  android:layout_height="match_parent"
+                  android:textSize="20sp"/>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="#FFF"
+              android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:text="Vô va vào lớp một"
+              android:layout_marginTop="20dp"
+              android:textColor="#ed2222"
+              android:textSize="30sp"
+              android:gravity="center_horizontal"/>
+    <TextView android:layout_width="match_parent"
+              android:layout_marginTop="10dp"
+              android:textSize="20sp"
+              android:textColor="#050505"
+              android:layout_marginLeft="5dp"
+              android:layout_height="match_parent"
+              android:text="Bé Vôva vào lớp 1. Để buổi đi học đầu tiên của các cháu được hứng thú, cô giáo bắt đầu bằng trò chơi đố vui. Cô nghĩ đến cái bàn, rồi đặt câu hỏi :
+- Đố các em, trong nhà ta có cái gì bằng ǵỗ, có 4 chân?\n
+Bé Vôva nhanh nhảu:\n
+- Cái ghế ạ\n
+Cô gật gù, ừ, cái em nghĩ cũng được đấy, nhưng mà câu trả lời của cô là cái bàn. Rồi cô đố tiếp, lần này cô nghĩ đến con mèo:
+- Đố các em, trong nhà ta nuôi con ǵì có 4 chân mà các em hay vuốt ve nó?\n
+Bé Vôva vẫn là người nhanh nhất:\n
+- Thưa cô, con chó ạ.\n
+- Ừ cũng được đấy, cô nói, em giỏi lắm, nhưng cái câu trả lời của cô là con mèo cơ. Bé Vôva xin phép cô ra câu đố:\n
+- Đố cô, cái gì ́mà đàn ông hay giấu trong quần lâu lâu lấy ra sử dụng, dài dài, tṛòn tròn , đầu đỏ đỏ…\n
+Chưa nói hết câu, cô giáo đă nổi giận ngắt ngang:\n
+- Vôva, sao em dám ăn nói bậy bạ như vậy\n
+Nước mắt lưng tṛong, bé Vôva thút thít trả lời:\n
+- Cái mà cô nghĩ cũng được đấy, nhưng câu trả lời của em là những que diêm cơ…"/>
+
+</LinearLayout>

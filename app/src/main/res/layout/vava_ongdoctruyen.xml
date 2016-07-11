@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="#FFF"
+              android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+              android:text="Vô va và ông đọc truyện."
+              android:layout_marginTop="20dp"
+              android:textColor="#ed2222"
+              android:textSize="30sp"
+              android:gravity="center_horizontal"/>
+    <TextView android:layout_width="match_parent"
+              android:layout_marginTop="10dp"
+              android:textSize="20sp"
+              android:textColor="#050505"
+              android:layout_marginLeft="5dp"
+              android:layout_height="match_parent"
+              android:text="Thấy ông nội rất chăm chú vào cuốn sách, Vô va quay sang hỏi ông :
+”Ông ơi, ông đọc truyện gì thế” ?
+ Ông nhẹ nhàng trả lời : ”Truyện lịch sử cháu ạ“.
+Với vẻ nghi hoặc, Vô va ngó vào quyển truyện của ông, giọng rất bức xúc :
+”Ông đọc truyện xxx, thế mà ông nói dối cháu “.
+Ông lại nhẹ nhàng, vẻ mặt buồn chán : “Với cháu là truyện xxx, còn với ông, nó là lịch sử rồi cháu ạ”.!"/>
+
+</LinearLayout>
